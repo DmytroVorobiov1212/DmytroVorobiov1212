@@ -40,6 +40,14 @@ I'm a frontend developer with passion for **dark UI**, **minimalism**, and **pol
 </p>
 
 ---
+
+### Contact Me
+
+- Email: **your@email.com**
+- Telegram: [@your_username](https://t.me/your_username)
+- LinkedIn: [linkedin.com/in/your-profile](#)
+
+---
 <!--
 **DmytroVorobiov1212/DmytroVorobiov1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
