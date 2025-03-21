@@ -23,6 +23,15 @@ I'm a frontend developer with passion for **dark UI**, **minimalism**, and **pol
 </p>
 
 ---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DmytroVorobiov1212&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmytroVorobiov1212&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+---
 <!--
 **DmytroVorobiov1212/DmytroVorobiov1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
