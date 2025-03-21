@@ -62,6 +62,10 @@ I'm a frontend developer with passion for **dark UI**, **minimalism**, and **pol
 </div>
 
 ---
+
+<p align="center">
+  <em>“The best UI is the one that gets out of the way.”</em>
+</p>
 <!--
 **DmytroVorobiov1212/DmytroVorobiov1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
