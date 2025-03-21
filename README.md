@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Frontend+Developer+who+loves+Dark+UIs;React+%2F+Next.js+%2F+TypeScript;Clean+Code+%2B+Smooth+Animations" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=440&lines=Frontend+Developer+who+loves+Dark+UIs;React+%2F+Next.js+%2F+TypeScript;Clean+Code+%2B+Smooth+Animations" />
 </p>
 
 ---
