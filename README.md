@@ -15,6 +15,14 @@
 I'm a frontend developer with passion for **dark UI**, **minimalism**, and **polished user experiences**. I specialize in creating multilingual sites, integrating external APIs, and building smooth and elegant interactions. My code is clean, well-structured, and always styled with care.
 
 ---
+
+### Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,scss,git,github,figma,vite" />
+</p>
+
+---
 <!--
 **DmytroVorobiov1212/DmytroVorobiov1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
