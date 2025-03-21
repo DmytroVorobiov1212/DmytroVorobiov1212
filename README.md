@@ -32,6 +32,14 @@ I'm a frontend developer with passion for **dark UI**, **minimalism**, and **pol
 </p>
 
 ---
+
+### Code is my comfort zone
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="80%" />
+</p>
+
+---
 <!--
 **DmytroVorobiov1212/DmytroVorobiov1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
