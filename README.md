@@ -43,9 +43,20 @@ I'm a frontend developer with passion for **dark UI**, **minimalism**, and **pol
 
 ### Contact Me
 
-- Email: **your@email.com**
+<!-- Email: **your@email.com**
 - Telegram: [@your_username](https://t.me/your_username)
-- LinkedIn: [linkedin.com/in/your-profile](#)
+- LinkedIn: [linkedin.com/in/your-profile](#) -->
+<div align="center">
+  <a href="#" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="Telegram"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="Slack"/>
+  </a>
+</div>
 
 ---
 <!--
