@@ -49,13 +49,13 @@ I create elegant, responsive, and multilingual websites with a focus on **animat
 ### 📬 Contact Me
 
 <p align="center">
-  <a href="https://t.me/your_username" target="_blank">
+  <a text-decoration="none" href="№" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="42" alt="Telegram"/>
   </a>
-  <a href="https://linkedin.com/in/yourname" target="_blank">
+  <a text-decoration="none" href="№" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" alt="LinkedIn"/>
   </a>
-  <a href="mailto:youremail@example.com">
+  <a text-decoration="none" href="№">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" alt="Gmail"/>
   </a>
 </p>
