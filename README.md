@@ -9,7 +9,25 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DmytroVorobiov1212/DmytroVorobiov1212/main/assets/DV_logo.png" width="120" alt="DV Logo" />
+  <svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="neonBlue" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#0ea5e9"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="100%" height="100%" fill="#0f172a"/>
+
+  <text x="20" y="140" font-size="120" font-family="Fira Code, monospace" fill="url(#neonBlue)" filter="url(#glow)">DV</text>
+</svg>
 </p>
 
 ---
